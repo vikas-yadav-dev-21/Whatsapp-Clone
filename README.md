@@ -32,7 +32,6 @@ A fully functional clone of the famous messaging app, featuring a pixel-perfect 
     * "Create Call Link" feature.
 * **📂 Comprehensive Menu:** Includes options for New Group, Linked Devices, Payments, and Settings.
 
-## 🛠️ Tech Stack
 
 ## 🚀 Installation & Run
 
